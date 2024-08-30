@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "liveServer.settings.port": 5501,
+    "C_Cpp.errorSquiggles": "disabled"
+}

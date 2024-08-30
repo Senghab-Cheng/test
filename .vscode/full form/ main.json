@@ -1,0 +1,10 @@
+{
+    "Import Statement": {
+      "prefix": "imp",
+      "body": [
+        "import ${1:module} from '${2:module}';"
+      ],
+      "description": "Import a module"
+    }
+  }
+  
